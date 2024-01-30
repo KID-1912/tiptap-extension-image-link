@@ -1,0 +1,22 @@
+{
+  "name": "tiptap-extension-image-link",
+  "version": "1.0.0",
+  "description": "An extension that supports tiptap image link.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiptap",
+    "extension",
+    "link",
+    "image"
+  ],
+  "author": "kid-1912",
+  "homepage": "https://github.com/KID-1912/tiptap-extension-image-link",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/tiptap-extension-image-link.git"
+  },
+  "license": "ISC"
+}
